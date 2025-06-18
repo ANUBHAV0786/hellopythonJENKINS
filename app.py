@@ -3,7 +3,8 @@ def say_hello(name):
     return f"Hello, {name}!"
 
 if __name__ == "__main__":
-    user = input("Enter your name: ")
+    #user = input("Enter your name: ")
+    user ="Anubav"
     print(say_hello(user))
     print("New addition to the code!")
     print("2nd line of code added.")
