@@ -7,3 +7,4 @@ if __name__ == "__main__":
     print(say_hello(user))
     print("New addition to the code!")
     print("2nd line of code added.")
+    print("3rd line of code added.")
